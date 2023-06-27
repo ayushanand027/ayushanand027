@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ayushanand027
-- 👀 I’m interested in in frontend and bacend development 
+- 👀 I’m interested in in frontend and backend development 
 - 🌱 I’m currently learning backend development and using databases such as SQL and mongodb
 - 💞️ I’m looking to collaborate on projects which include web development
-- 📫 How to reach me ... ayush.anand7004@gmail.com
+- 📫 How to reach me ayush.anand7004@gmail.com
 
 <!---
 ayushanand027/ayushanand027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
