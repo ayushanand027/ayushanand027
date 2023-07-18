@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayush
+- 👋 Hi, I’m Ayush Anand
 - 👀 I’m interested in in frontend and backend development 
 - 🌱 I’m currently learning backend development and using databases such as SQL and mongodb
 - 💞️ I’m looking to collaborate on projects which include web development
